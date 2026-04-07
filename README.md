@@ -16,6 +16,5 @@
 <p align="center">
  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=dreamct25&layout=compact&count_private=true&text_color=00ff00&bg_color=1e1e1e&title_color=00b3ff&hide_border=true"></img>
  <br/>
- <img src="https://bad-apple-github-readme.vercel.app/api?username=dreamct25&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&text_color=00ff00&bg_color=1e1e1e&title_color=00b3ff&hide_border=true"></img>
  <img src="https://github-readme-streak-stats.herokuapp.com?user=dreamct25&theme=github-dark&hide_border=true&background=1e1e1e&ring=00B3FF&fire=00B3FF&sideNums=00FF00&currStreakLabel=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00&stroke=00FF00"></img>
 </p>
