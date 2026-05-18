@@ -4,6 +4,7 @@
 ## Repos
  - [Deploy Personal Portfolio (GitHub Pages)](https://github.com/dreamct25/dreamct25.github.io)
  - [Personal Portfolio (Orign Source)](https://github.com/dreamct25/develop_rep)
+ - [Self Libraries (Npm Pack Version)](https://github.com/dreamct25/self-libraries)
  - [Easy Todo Template (Demo docker CI/CD)](https://github.com/dreamct25/easy_todo_template)
 ***
 ## Usually Using
